@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "in.h": "c",
+        "string": "c",
+        "iosfwd": "c",
+        "strings.h": "c",
+        "page.h": "c"
+    }
+}
